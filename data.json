@@ -1,0 +1,75 @@
+{
+  "personal": {
+    "name": "Lokesh G.",
+    "firstName": "Lokesh G.",
+    "roles": ["Mobile App", "Flutter Dev", "UI/UX "],
+    "bio": "B.Tech Information Technology Graduate — crafting pixel-perfect, high-performance mobile experiences with Flutter & Dart.",
+    "aboutBio": "I'm a passionate Flutter developer dedicated to building high-performance, cross-platform mobile applications. With a B.Tech in Information Technology and a strong foundational interest in Cyber Security, I architect apps that are not only beautiful and fluid but also secure by design.",
+    "email": "aglokihelpline@gmail.com",
+    "location": "India"
+  },
+  "stats": [
+    { "num": "3+", "label": "PROJECTS BUILT" },
+    { "num": "5+", "label": "TECHNOLOGIES" },
+    { "num": "2024", "label": "B.TECH GRADUATE" }
+  ],
+  "features": [
+    {
+      "icon": "fa-solid fa-mobile-screen",
+      "title": "Cross-Platform",
+      "desc": "Beautiful apps for iOS & Android from a single codebase."
+    },
+    {
+      "icon": "fa-solid fa-bolt",
+      "title": "High-Performance",
+      "desc": "Optimized 60fps experiences that users love."
+    },
+    {
+      "icon": "fa-solid fa-shield-halved",
+      "title": "Secure Architecture",
+      "desc": "Cyber security foundations & secure data handling."
+    },
+    {
+      "icon": "fa-solid fa-code",
+      "title": "Clean Code",
+      "desc": "Modular, maintainable code with best practices."
+    }
+  ],
+  "skills": [
+    { "name": "Flutter", "pct": "90", "icon": "fa-solid fa-mobile-button" },
+    { "name": "Dart", "pct": "85", "icon": "fa-solid fa-code" },
+    { "name": "UI/UX Design", "pct": "80", "icon": "fa-solid fa-wand-magic-sparkles" },
+    { "name": "REST APIs", "pct": "85", "icon": "fa-solid fa-globe" },
+    { "name": "OAuth 2.0", "pct": "75", "icon": "fa-solid fa-lock" },
+    { "name": "Cross-Platform", "pct": "88", "icon": "fa-solid fa-layer-group" },
+    { "name": "Secure Data", "pct": "70", "icon": "fa-solid fa-database" },
+    { "name": "Git & CLI", "pct": "80", "icon": "fa-solid fa-terminal" },
+    { "name": "Problem Solving", "pct": "85", "icon": "fa-solid fa-microchip" }
+  ],
+  "projects": [
+    {
+      "name": "MoonDrive",
+      "icon": "fa-solid fa-cloud",
+      "brandColor": "#00d2ff",
+      "description": "Cloud file management app connecting Google Drive, OneDrive & Dropbox via secure OAuth 2.0 authentication.",
+      "tags": ["Flutter", "Dart", "OAuth 2.0", "REST APIs", "Cloud Storage"],
+      "link": "#"
+    },
+    {
+      "name": "SkillPath AI",
+      "icon": "fa-solid fa-wand-magic-sparkles",
+      "brandColor": "#ff6be8",
+      "description": "Core branding design and dynamic, fluid splash screen animations for an AI-powered mobile learning platform.",
+      "tags": ["Flutter", "Animation", "UI/UX", "Branding"],
+      "link": "#"
+    },
+    {
+      "name": "ECHO SENSE",
+      "icon": "fa-solid fa-video",
+      "brandColor": "#ff9900",
+      "description": "Smart video recorder with live emotion capture & real-time facial analysis. Built for Anna University.",
+      "tags": ["Flutter", "Computer Vision", "AI/ML", "University"],
+      "link": "#"
+    }
+  ]
+}
